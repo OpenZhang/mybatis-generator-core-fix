@@ -1,4 +1,6 @@
 # mybatis-generator-core-fix
+# 使用 mybatis-generator 1.3.2 自动生成mybatis 结构源码带中文注释；
+# 通过lifangyu/mybatis-generator-auto-tools工程使用此工程编译的jar包mybatis-generator-core-1.3.2-fix.jar(是通过工程mybatis-generator-core-fix编译的jar)可以自动生成以下特定样式的中文注释
 mybatis generator 生成数据库备注为注释 修整部分代码的样式
 
 本工程为maven项目，可以直接打包使用
